@@ -1,0 +1,26 @@
+.navbar{
+ height: 60px;
+ background-color: rgb(16, 16, 118);   
+ display: flex;
+ justify-content: center;
+}
+.navbarcontainer{
+    width: 100%;
+    max-width: 1024px;
+   color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    
+}
+.navbarlog{
+    font-weight: 500;
+}
+.navbutton{
+    margin-left: 20px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    color:rgb(16, 16, 118);
+}
